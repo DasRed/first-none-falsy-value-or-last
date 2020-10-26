@@ -1,5 +1,5 @@
 {
-    "name": "@dasred/first-none-falsy-value-or-last",
+    "name": "first-none-falsy-value-or-last",
     "version": "1.0.0",
     "description": "a function which returns the first none falsy value or the last value, if alle values are falsy",
     "main": "./dist/index.js",
